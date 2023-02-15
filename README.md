@@ -1,7 +1,10 @@
-# Cylinder-of-the-Rings![screen_1](https://user-images.githubusercontent.com/70098939/218999841-b403a03f-afcd-48e8-b6d1-48a27c97df8d.png)
-![screen_2](https://user-images.githubusercontent.com/70098939/218999852-c3abd61b-8559-4b84-9662-5cf9836df638.png)
-![screen_6](https://user-images.githubusercontent.com/70098939/218999861-68622710-83cd-4bd7-b17e-f88e65842714.png)
-![screen_7](https://user-images.githubusercontent.com/70098939/218999869-23dd6663-04c5-4c13-abcd-6d9d3744703e.png)
-![screen_3](https://user-images.githubusercontent.com/70098939/218999896-18b45d6a-94d4-4301-aeff-cb422bbd31d2.png)
-![screen_4](https://user-images.githubusercontent.com/70098939/218999910-392095c2-6f0b-45cb-a94e-cb60347afb2f.png)
-![screen_5](https://user-images.githubusercontent.com/70098939/218999917-434caa87-9873-4082-8e55-201651407845.png)
+# Cylinder-of-the-Rings
+![pp1](https://user-images.githubusercontent.com/70098939/219000480-ae7e3445-fb01-4894-abea-04ee331ab6b5.png)
+![ekrangoruntu1](https://user-images.githubusercontent.com/70098939/219000548-70646ff2-dc8d-4ed9-97ed-427ad130b576.png)
+![resso2](https://user-images.githubusercontent.com/70098939/219000622-d95dbcdc-c247-46bf-88f7-0d5158290df5.png)
+![w1](https://user-images.githubusercontent.com/70098939/219000692-15b1516e-68e3-48f7-8522-051f808303bd.jpeg)
+![s1](https://user-images.githubusercontent.com/70098939/219000705-1f5a4515-9461-4232-8be8-eb93fb7abd3f.jpeg)
+
+
+https://user-images.githubusercontent.com/70098939/219000773-2053ff64-76b3-4e76-89a3-1c07e464c83f.mp4
+
